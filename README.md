@@ -2,6 +2,7 @@
 
 Hi I'm Hirusha Silva.
 I'm a computer science undergraduate.
+I'm from Sri Lanka.
 
 <!--
 **HirushaSilva/HirushaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
